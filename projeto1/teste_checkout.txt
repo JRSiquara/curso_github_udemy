@@ -1,3 +1,4 @@
 1ª inserção no arquivo realizando git add, commit e push.
-2ª inserção no arquivo realizando git add, commit e push.
-3ª inserção no arquivo realizando git add, commit e push. 
+
+
+Duas inserções (linhas) foram deletadas.
