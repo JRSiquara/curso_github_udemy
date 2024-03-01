@@ -1,7 +1,0 @@
-user.name=jrlxub
-user.mail=jrsiquara@gmail.com
-user.email=jrsiquara@gmail.com
-core.repositoryformatversion=0
-core.filemode=true
-core.bare=false
-core.logallrefupdates=true
